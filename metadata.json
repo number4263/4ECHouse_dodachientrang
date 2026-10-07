@@ -1,0 +1,6 @@
+{
+  "name": "4ECHouse - Đo đạc Laser & Khảo sát Hiện trạng",
+  "description": "4ECHouse - Ứng dụng đo đạc hiện trạng kiến trúc kết nối thước laser Bluetooth, tự động cập nhật mặt bằng 2D và xuất file CAD DWG/DXF, SketchUp SKP chuyên dụng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
